@@ -12,7 +12,7 @@ Bu firmware'i Pico'ya yüklediyseniz, tebrik ederim.. 7$ (+kdv) gibi bir ücret 
 4. Parmağınızı 1-2 saniye sonra butondan çekebilirsiniz
 5. Pico, flash sürücü moduna geçecektir. **uf2** uzantılı dosyayı, mouse ile tutun ve açılan klasöre bırakın
 
-**Önemli Not :** Pico'nun usb soketine bağladığınız kablo sadece şarj kablosu olup içinde data telleri olmayabilir. Bu durumda firmware atamazsınız. Öyleyse yeni bir data kablosu bulmanız gerekir.
+**Önemli Not :** Pico'nun usb soketine bağladığınız kablo sadece şarj kablosu olup içinde data telleri olmayabilir. Bu durumda Pico'ya firmware atamazsınız. Durum böyleyse yeni bir data kablosu bulmanız gerekir.
    
 ![Picobishi_PLC_Pinout_2023](https://github.com/erolcum/Picobishi/blob/main/my%20files/Pico_PLC_Pinout_2023.png)
  
