@@ -6,8 +6,8 @@ Bu firmware'i Pico'ya yüklediyseniz, tebrik ederim.. 7$ (+kdv) gibi bir ücret 
 [erolcum.blogspot.com](https://erolcum.blogspot.com)
 
 ### Pico'yu PLC'ye dönüştürme
-1. dosyayı indirin
-2. zip i açın
+1. Dosyayı indirin. Bunun için Firmware.ino.1.08.zip dosyasına tıklayın. Ardından view raw butonuna tıklayın.
+2. İndirilen zipli dosyayı, bir klasöre açın
 3. Pico üstünde bulunan butona basarak, bilgisayara usb kablosu ile bağlayın
 4. Pico, flash sürücü moduna geçecektir. Dosyayı, mouse ile tutun ve açılan klasöre bırakın
    
