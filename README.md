@@ -10,7 +10,7 @@ Bu firmware'i Pico'ya yüklediyseniz, tebrik ederim.. 7$ (+kdv) gibi bir ücret 
 2. İndirilen zipli dosyayı, bir klasöre açın
 3. Pico'nun üstünde bulunan butona basarak, Pico'yu bilgisayara usb kablosu ile bağlayın
 4. Parmağınızı 1-2 saniye sonra butondan çekebilirsiniz
-5. Pico, flash sürücü moduna geçecektir. **uf2** uzantılı dosyayı, mouse ile tutun ve açılan klasöre bırakın
+5. Pico, flash sürücü moduna geçecektir. Windows gezgini ile RPI klasörünü açın. **uf2** uzantılı dosyayı, mouse ile tutun ve açılan klasöre bırakın
 
 **Önemli Not :** Pico'nun usb soketine bağladığınız kablo sadece şarj kablosu olup içinde data telleri olmayabilir. Bu durumda Pico'ya firmware atamazsınız. Durum böyleyse yeni bir data kablosu bulmanız gerekir.
    
