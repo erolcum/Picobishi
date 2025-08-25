@@ -13,6 +13,9 @@ Bu firmware'i Pico'ya yüklediyseniz, tebrik ederim.. 7$ (+kdv) gibi bir ücret 
 5. Pico, flash sürücü moduna geçecektir. Windows gezgini ile RPI klasörünü açın. **uf2** uzantılı dosyayı, mouse ile tutun ve açılan klasöre bırakın
 
 **Önemli Not :** Pico'nun usb soketine bağladığınız kablo sadece şarj kablosu olup içinde data telleri olmayabilir. Bu durumda Pico'ya firmware atamazsınız. Durum böyleyse yeni bir data kablosu bulmanız gerekir.
+
+### Pico'yu formatlama
+Bir nedenden Pico'nun kafası karışabiliyor. Fabrika ayarlarına döndürmek veya sıfırlamak için **flash_nuke.uf2** dosyasını RPI klasörüne kopyalayın. Bütün flash hafızası silinecektir.
    
 ![Picobishi_PLC_Pinout_2023](https://github.com/erolcum/Picobishi/blob/main/my%20files/Pico_PLC_Pinout_2023.png)
  
